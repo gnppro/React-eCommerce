@@ -1,0 +1,146 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "description": "Lo mejor de la semana",
+      "title": "Destacados",
+      "products": [
+        {
+          "title": "¿Qué es responsive Design?",
+          "subheader": "LeonidasEsteban",
+          "avatar": "video",
+          "cover": "./images/covers/responsive.jpg",
+          "txt": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": 1
+        },
+        {
+          "title": "Cómo optimzar la carga de un website",
+          "subheader": "LeonidasEsteban",
+          "avatar": "video",
+          "cover": "./images/covers/optimizar.jpg",
+          "txt": "http://peach.themazzone.com/durian/movies/sintel-1024-surround.mp4",
+          "id": 2
+        },
+        {
+          "title": "Qué es Bitcoin",
+          "subheader": "Yograterol",
+          "avatar": "video",
+          "cover": "./images/covers/bitcoin.jpg",
+          "txt": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": 3
+        },
+        {
+          "title": "Que pasó con HTML5",
+          "subheader": "Freddier",
+          "avatar": "video",
+          "cover": "./images/covers/html5.jpg",
+          "txt": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": 4
+        },
+        {
+          "title": "Lo mejor de Mejorando.la",
+          "subheader": "Cvander",
+          "avatar": "video",
+          "cover": "./images/covers/mejorandola.jpg",
+          "txt": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": 5
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "description": "Lo mejor para concentrarte",
+      "title": "Para programar",
+      "products": [
+        {
+          "title": "One more time",
+          "subheader": "Daft Punk",
+          "avatar": "video",
+          "cover": "./images/covers/one-more-time.jpg",
+          "txt": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": 1
+        },
+        {
+          "title": "Midnight City",
+          "subheader": "M83",
+          "avatar": "video",
+          "cover": "./images/covers/midnight.jpg",
+          "txt": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": 5
+        },
+        {
+          "title": "Solar Sailer",
+          "subheader": "Daft Punk",
+          "avatar": "video",
+          "cover": "./images/covers/solar-sailer.jpg",
+          "txt": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": 2
+        },
+        {
+          "title": "The social network",
+          "subheader": "The social network",
+          "avatar": "video",
+          "cover": "./images/covers/social.jpg",
+          "txt": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": 4
+        },
+        {
+          "title": "No vaya a ser",
+          "subheader": "Pablo Alboran",
+          "avatar": "video",
+          "cover": "./images/covers/no-vaya-a-ser.jpg",
+          "txt": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "description": "Si no te queda de otra",
+      "title": "Regueton",
+      "products": [
+        {
+          "title": "Despacito",
+          "subheader": "Luis Fonsi",
+          "avatar": "video",
+          "cover": "./images/covers/despacito.jpg",
+          "txt": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": 1
+        },
+        {
+          "title": "Echame la culpa",
+          "subheader": "Luis fonsi",
+          "avatar": "video",
+          "cover": "./images/covers/echame-la-culpa.jpg",
+          "txt": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": 3
+        },
+        {
+          "title": "Mi Gente",
+          "subheader": "J Bavil",
+          "avatar": "video",
+          "cover": "./images/covers/mi-gente.jpg",
+          "txt": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": 2
+        },
+        {
+          "title": "Felices los 4",
+          "subheader": "Maluma",
+          "avatar": "video",
+          "cover": "./images/covers/felices.jpg",
+          "txt": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": 4
+        },
+        {
+          "title": "Me Rehúso",
+          "subheader": "Danny Ocean",
+          "avatar": "video",
+          "cover": "./images/covers/rehuso.jpg",
+          "txt": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": 5
+        }
+      ]
+    }
+  ]
+}
+

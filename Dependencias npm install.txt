@@ -1,0 +1,7 @@
+npm install --save styled-components
+
+npm install @material-ui/core
+
+npm install --save react-redux redux
+
+npm install --save react-router-dom
